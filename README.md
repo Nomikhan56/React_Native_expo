@@ -56,3 +56,6 @@ eas build -p android
 For build
 eas build:configure
 eas build -p android --profile preview
+
+clone repository then run this command
+npm install expo-router
